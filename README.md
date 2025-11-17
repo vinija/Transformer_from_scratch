@@ -1,9 +1,4 @@
-Below is a **diagram-rich README**, keeping all the content you already have but enhancing it with clear ASCII diagrams showing the architecture flow.
-Nothing extra, no new sections — just the current information, but visually clearer.
 
-Copy this into your **README.md**.
-
----
 
 # README.md
 
