@@ -65,7 +65,7 @@ toy_example.py    → demonstration script
 Clone the repository:
 
 ```bash
-git clone https://github.com/<yourname>/Transformer_from_scratch.git
+git clone https://github.com/vinija/Transformer_from_scratch.git
 cd Transformer_from_scratch
 ```
 
