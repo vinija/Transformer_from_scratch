@@ -1,5 +1,3 @@
-
-
 # README.md
 
 # Transformer From Scratch (PyTorch)
