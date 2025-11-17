@@ -5,7 +5,7 @@ from layers import SublayerConnection, LayerNorm
 class DecoderLayer(nn.Module):
     def __init__(self, size, self_attn, src_attn, feed_forward, dropout):
         super().__init__()
-        self.self_attn = self_att_attn
+        self.self_attn = self_attn
         self.src_attn  = src_attn
         self.feed_forward = feed_forward
         self.sublayers = clones(SublayerConnection(size, dropout), 3)
